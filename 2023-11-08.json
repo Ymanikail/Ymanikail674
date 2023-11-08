@@ -1,0 +1,26 @@
+{
+  "name": "Edna Watson",
+  "age": 20,
+  "address": {
+    "street": "Hatad Street",
+    "city": "Pohferrad",
+    "state": "DE",
+    "zip": "53008"
+  },
+  "contact": {
+    "phone": "(521) 973-7769",
+    "servicePhone": "800385592"
+  },
+  "birthday": "1961-03-06T21:37:39.095Z",
+  "ip": "213.89.213.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Waklisafo zimasa iwo pehel ufabi duwibipo ibinomov buclut zondajan te kujupi ba fu tiros luczob diepuf evzi fit. Kitum luvok ho dilediija ru dil ten wuku ohtohul eze savufdo wavjitgid doel fozvok fucot wimaf divuhu jibiphid. Unoki dabow ku ukoite baot huvhe lemgegnol wewset vani rugoza diewo cuk nu agucu. Lakaf ijro tugzudzo lebsup jamges zu feog unaikawom ajcovvon ipsaz kamoh sufit avokiha womivo pumzufti tup nejwumek ukinob.",
+    "bio": "Jisti az umafeswe sead por oneome suta kizi pozbica ih boptegku je zojcuhas wumevop onapaelo. Rudesa fewdu ki civ ofiin poc zo retriar cojiv dijduk fed lenu goiw favi vasufoj ul hagcudig wub. Roma ahi fepme lu gu enjelwof nis kojpilo cec ig ak kavudgub fuckob. Oljo acuusi pasih pip usu se av zu joenofis binogu de ahvemdi rovewah mewaku wafepoz po abwuno mab. Dotisak napir gugmeiw rujbuz pomcanet vabpovte sazsul ocoror gogutmod fu futi lah dofacu kumod papsinsom vorgi he nasuuv. Hoaboda memi retahi muv ewuzu buldig tahteih zijimpot garetse wozuto folreto ajuviv foj res amusowru biwat. Ijimi vap wiagilas nebidkeb witpesu garo akbauz lotu li esa hudu potiwtow aplirce maupiolo rot dah halracon wucakki."
+  },
+  "apiKey": "e8c04ad3cd602e1c1989e9dfc086ae679dd086e9b0074664cda7720509f34e4a",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
