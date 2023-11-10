@@ -1,0 +1,26 @@
+{
+  "name": "Melvin Morris",
+  "age": 30,
+  "address": {
+    "street": "Deter Center",
+    "city": "Hekule",
+    "state": "MN",
+    "zip": "54086"
+  },
+  "contact": {
+    "phone": "(539) 888-1858",
+    "servicePhone": "800547364"
+  },
+  "birthday": "1967-01-14T13:36:07.296Z",
+  "ip": "234.221.160.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Di venidsoh ebeev abockem cazek uh olegi tuwem do ogo nu ejas varhulice avre sitidgel. Vu huzsektiz ubsu pogu no fadokibo zodag tupecud iwlakpod duha vu ibian. Awlibaco he sida zanoj lu docozmes su vulidkib ced vi te wep unhuil wes il lugsewju fuwpa kelorzi.",
+    "bio": "Lajegge ne calokojic ulezo cegu obuna mewoviame lifkanzi rijragen daleg geutovog aduruj. Mortafob luz difivac jakuj tefihwo ujejip segse wikgih kempimfi bojvew lefej uphuf se po pocnaha jadav. Tipob wadjavi linejcu ilite cezzi kaarawem avbukiv zacadoz ceb jikocki foz toridfud ta bijdoke."
+  },
+  "apiKey": "52c639c534bdddddab4c8c111e66d9a9dd6812e90b01f058daae11844d628ad4",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
