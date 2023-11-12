@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Lloyd",
+  "age": 53,
+  "address": {
+    "street": "Vadgat Way",
+    "city": "Ogvidkes",
+    "state": "SD",
+    "zip": "39412"
+  },
+  "contact": {
+    "phone": "(919) 369-9888",
+    "servicePhone": "800761779"
+  },
+  "birthday": "1975-02-27T00:04:02.082Z",
+  "ip": "128.37.37.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Vat suj ug fiuha cij cisimdu esa seebzuv maup hekotanu zubinlor likurida. Maf mivocog ilaipouw pevol kuhgimin cedcac osrutem ocedik jis waker sunjok bianeg maholmef ipojop wuc. Fujbaheh zawingac jinsuij ded ji puhud wervi figmar siv obopoasa guhkajat zupied ebki elmim. Irewowaz kiped kuhoc nohpa jeh mujpigico zo alesupudu oro irmonim hofdo kivuz jivige ga imtifjo udofimsob da. Eskog bulu befbok nanob zannegnag hopekpub meh ro zetuige esmucif ipuev su mif ifekoum lof. Leppel tom osnizho caz situn cawasdal nozeuh jod ikrehus jifekuvu suhe new bohducuc.",
+    "bio": "Nu fu pal munze tul un jartuta tebvu kasnawsi jifa von be imcikur tovveg lawtu hajus. Le hofze laira ikkuc na ufi ug luc olababen mi lamekbo me kimda ju ofu hibdo wuotu wukabra. Agetavru gorir ujivurvis voaro noworimi vuvus ruwomu cap polof lapkata ziobe so daedu osokuk kor ican at poldeno."
+  },
+  "apiKey": "b61fdd1830a15c24512e6823c17f74a55a99005450d40383cef7bbefbb154401",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
