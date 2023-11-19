@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Chavez",
+  "age": 25,
+  "address": {
+    "street": "Isvo Lane",
+    "city": "Gevezoh",
+    "state": "FL",
+    "zip": "12092"
+  },
+  "contact": {
+    "phone": "(463) 736-2006",
+    "servicePhone": "800556474"
+  },
+  "birthday": "2000-03-26T20:12:31.619Z",
+  "ip": "164.86.115.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Wazli izice inehakjaj cehpo ucra rafoev jujwaet vinela cuscagtul fac gujevo kekajo ifcejenu. Docpuw ehi so nuita pegaw umalewdem oku dajupe jemve kapivve lov meafa tem pazaroc carowkop. Fidgizbi jawulo tuggeef rihodmap ufo noavvad vapva puore biusaef ikzinfo vor ub vukolki riati limca. Ziw udkaiw rolzup ga leperuj ka el aheta gumu vinu veuj eta zahsehra co.",
+    "bio": "Jel figa ticujim ikacum hodbos renizkoh zu uzu lab map ga dudbiis gohaplal cazja ce ivap ivzelco. Giplal sukma pito vogekvo tuni to am ohu majnuiw kisuk ilzuvbuh zihu zuwaki ku on. Rocah ned savva suruore hili sukon iwien gu edtunuw hed anpap pi fagse. Rabpa riev rebmila kozupjow sorcuvwut va don faw dic hezoaw zogizes hulinig iku rikhukra atuzasga memcukfi umbo ludehof. Erfagli pe curur hire finmejde uliojo juhva lebiefe jat uc zaw ereru kor bib zebem."
+  },
+  "apiKey": "bbf9744b9b7778b549900f8efb11cf23fcc15ebdbe9b6051763a5d7eb1c24f14",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
