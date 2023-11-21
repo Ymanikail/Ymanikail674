@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Herrera",
+  "age": 35,
+  "address": {
+    "street": "Ahva Circle",
+    "city": "Jafhora",
+    "state": "MS",
+    "zip": "07252"
+  },
+  "contact": {
+    "phone": "(858) 242-4326",
+    "servicePhone": "800278233"
+  },
+  "birthday": "1999-12-21T05:23:16.122Z",
+  "ip": "62.99.31.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Azdokcuk debeke wossit kupjul vi linej vil rokoj wu vu pu saza ibowubdu zidi ji. Jugkegemu vij nuv hutjikes ujo egsuc il cabdi tuagofe reme hole itahijeg iznu ba ijdoho deoli loc mef. Ujdij uge kawpuim wet pajefpev tetear toacecew cag winavnul odoit tum lu fuzkakpus fawuja git sotohoh.",
+    "bio": "Be ku adiotona la bena bo cag bev udizeme lutgalvi os kuvujeluz we uf japejwut veuli avtoddaz detoda. Zeepo ov kad nubupaf bu cona he isaar fu ti uzubezowa lordagis zobla bidili muromova bupeer bam. Obidapla nug homaz fa ojute bojvugku olmut wat sufi vapive hijrucah pud kak wo dosdeb ib mujhoh wab. Zaf ciwvo emobu ubjaw ava leveto bof ju jekbalmaz vov co sarini guac sivi jet."
+  },
+  "apiKey": "930e1eb93927190671db4feb627e1b311d29dde768314b0831f01de52babc3ee",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
