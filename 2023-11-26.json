@@ -1,0 +1,26 @@
+{
+  "name": "Francis Tran",
+  "age": 25,
+  "address": {
+    "street": "Disfof Terrace",
+    "city": "Zavopa",
+    "state": "IN",
+    "zip": "02158"
+  },
+  "contact": {
+    "phone": "(715) 327-8036",
+    "servicePhone": "800742672"
+  },
+  "birthday": "1963-08-25T10:52:37.258Z",
+  "ip": "6.73.29.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezarag weed nofinhol raicu di tunilo tat muk wujar juvsivun kormo rajhu nuhiw. Wertacib sel dahon ubjobge elkal li epa vati hibezra febummo be ifibuvku temacmiw veas uv bekak romaide. Ivemef mapho gep ew ewiger babzuofe lipaaj saflodwif zof maoc petkafo utoelhas biguom fulij beacho do si.",
+    "bio": "Jozna ehiegiweh fevucum remed natif difu fa bil emli seup so nam hekabdu zaj tab jomera. Ojavurki zo rimevco tedero ti ko sata vurige osojisu pefzet jah ko mepdaeve. Efgo new tidum mejtefu golwan nafojo dacko liave bubjacoj er mubpoesa esizi welhu. Aseiheaza orecupwo ziotpus not socabmad ak muludaj mop elu dozibtut cufoba afud lewcatca jo lo ipi wez. Eruile metoije kahovo vuhfu bugwic odlik ukbupvo odu tedpa lipusi ri dihiv webisriw ecnode davgu ot. Va viffihas vuwdu jameini tiova sewef nospim jezinze otevobgal je jairener lal zuv ruzdedun pizo."
+  },
+  "apiKey": "65510df7ee6bff0e514abb1f87b0654bcabd1dcbe25ada82cc5dd6034eb74ab7",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
