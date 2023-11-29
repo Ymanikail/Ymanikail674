@@ -1,0 +1,26 @@
+{
+  "name": "Nell Curry",
+  "age": 21,
+  "address": {
+    "street": "Difac Path",
+    "city": "Tufezec",
+    "state": "MO",
+    "zip": "72243"
+  },
+  "contact": {
+    "phone": "(924) 346-8004",
+    "servicePhone": "800489816"
+  },
+  "birthday": "2001-01-04T09:11:23.170Z",
+  "ip": "131.50.206.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Goj oli de je muz anokuaji pebwut let owbezpa rac ev ek cenegvok. Zomeku rugu hu bat vak sevsic zebra edadon polivo gi behamu el ezenij emna pa valhej rentisgi. Tejos ras ale zave leho azenijje amjo ihgu lap ru ojufebi zobnufdu zu hujvufli odzub.",
+    "bio": "Kornav ifotve ca didna mac ma ig bitoju hahdi radajfi de zihi ciwapo duef baw. Esaudebo vejinu an ipu wa wud otaepufe ularvuv foocjic mecif af wowosof zip ujlo fopin. Laut ti ida tivka domcowus zijfi nitipit ga noca leh fu wol refed je mivgeb. Hoit tenen kuge mid ekusodbov kudri map udufizan azuti suh faw goz."
+  },
+  "apiKey": "17d5f1547821ee3c33035fa0f2dcb339f5db23106f984da21b2b5054aaf6f388",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
