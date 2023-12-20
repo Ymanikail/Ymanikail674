@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Kim",
+  "age": 41,
+  "address": {
+    "street": "Luaf Boulevard",
+    "city": "Odiucoti",
+    "state": "AR",
+    "zip": "59460"
+  },
+  "contact": {
+    "phone": "(708) 964-8849",
+    "servicePhone": "800235765"
+  },
+  "birthday": "1994-11-16T00:09:25.404Z",
+  "ip": "216.166.140.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Pokvatbeg ami buchuhgel hew degge wazeh disfumaw ebo rapuk epi vu se fa hiuvsil. Dagdeli pif nasoslib cobeg paup tac azegedvo givwu guchulfic hul tinu nat. Li ras gavufoub vav zu wuv di ho dijahek nueweosi ejmufka meso jese. Ok ro viffohihi foj lutatud relaw baitju ifkuf baovla hurekozok ra fobecgav mawwa.",
+    "bio": "Ujuebha gemo ofjiko unze ejobifgun sus difof asowiv ecfitu hakpusem fagroke nomvuv. Ak is seg ekudezo ev poru gubantor vi ku la zemva adno ardues tocu. Biji sa esri giz uwisen renarev elarce vufavuha oda nipa mam hu jopuw ogaciv."
+  },
+  "apiKey": "06ac0c04dedcbd4469f33de930dbc16ab4789bc200e82a9ad30a8d49fa234b6c",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
