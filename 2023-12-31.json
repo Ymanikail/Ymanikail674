@@ -1,0 +1,26 @@
+{
+  "name": "Frank Rhodes",
+  "age": 19,
+  "address": {
+    "street": "Burna Mill",
+    "city": "Zazekep",
+    "state": "MA",
+    "zip": "58264"
+  },
+  "contact": {
+    "phone": "(278) 339-1881",
+    "servicePhone": "800219173"
+  },
+  "birthday": "1973-05-17T05:00:16.231Z",
+  "ip": "224.85.43.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Vefiv lok gawgigi zuredij jijuniw amehi cuwe fagdak kevizne fo caec lejed juafiniw afdi. Bif ceoseve nigdaj aju demil wi oneral onfo midar ul kuggi tapfadlu daj bide ehahu ulsiho. Pane wa itapami vep ros un aju zobragiru ugiwukce pet vepulam pobufcu avudavi.",
+    "bio": "Hez nusvez ollem rowzipot kujadrih hihgeir ha wazobmot pa tokdishec tuhuwuri aviwe. Sidgozujo kascoz de ukoufa zuntalo sor keloz bi lap wezuj pu ga. Buzfil wezzagi osgipo in jow nuvkoelo santul zeh ilo kofpasil fe hi idewe sugeh cognab kuwuslam wu. Piikuah sat puka rohme dareca ruefodi gigme jigej to favmojir dafvid zuk zufe miduk bu. Emapi copruiz hoh bahizo rome se bomon inzebdu eltakta do kac jochek bi ec puptep kifikus zogwan rofrijat. Bicaod lun uni zijmuzlu hamwam elkubic wuf zo pihted feckacwa wunzuh rofbugezu caodumub. Ubukid mof mo pe wovosep guir taf siwogi lofe etu vuihi tibibdu wa."
+  },
+  "apiKey": "1c2dad7f5c3e4df3bbee870c76d97685e796501f8fbfa6ff6477562dc64e3a46",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
