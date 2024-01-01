@@ -1,0 +1,26 @@
+{
+  "name": "Iva Barton",
+  "age": 61,
+  "address": {
+    "street": "Ogke Key",
+    "city": "Redzabki",
+    "state": "VT",
+    "zip": "40000"
+  },
+  "contact": {
+    "phone": "(987) 203-3977",
+    "servicePhone": "800653458"
+  },
+  "birthday": "1998-02-10T10:07:37.348Z",
+  "ip": "189.43.161.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Dic van wo jiw usimoj hiegho ducaozu urutudim fievi jo cicdu tebgeip ijnorvab. Ru hon onveok ucramlut fuvog josigmu cojauk wawop dog sakuaco so naz ave bul hurvajak ni. Ikvizir secje epekne rec eze malu kulsid uzviciv wicoas az kivaom laucu. Og oro za wa to gu bindag olgemdef sozmosbo okepe ce linfup no pewlam.",
+    "bio": "Lis likij vu fe hiihi megad micebdo takomo tevcan kudbecej ru igiseeh lepwadpa. Ovfu mowekfuf ahru viwbacihe kafa agarojnas gi madu uv rec isovo nov ikamoek. Jisje niheni tashoipa so revdenori win ivne veboku wagwo farbarzev ulticav nu. Jurosbe koze baj tawsar hadoun tardo balrekub mepda osbe mufus do tajop pofwo nuhma sujehsul."
+  },
+  "apiKey": "e2fe352e9f52d477c5dbea9520ef5786ab1c7776f82da81fcab87386ef55a280",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
