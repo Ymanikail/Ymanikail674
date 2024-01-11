@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Hart",
+  "age": 21,
+  "address": {
+    "street": "Sibuk Lane",
+    "city": "Cagius",
+    "state": "MI",
+    "zip": "45549"
+  },
+  "contact": {
+    "phone": "(260) 817-9216",
+    "servicePhone": "800999825"
+  },
+  "birthday": "1988-02-05T05:24:20.316Z",
+  "ip": "247.134.238.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Hekhatzeh molifta caz lensekeb ikkijop sa gaes umahe vuzi ciguv uluude pize umodifjig egetu dohez rilci. Jus enoul paz cam kusle beva aba forta kije vowwaju bocuvi tuwpecga tawsereg tuow ji pipiseno hucid hac. Hotkal hake budazfih heg muhede kap isapa opa edkoeh pelcorcob wupbacbo elijop de deohgaf wegi efu ahedejda zedunolo.",
+    "bio": "Edeakna gepo gewboc oviera vot tah perurov tuh to ule nimewit ruel ga ta sihpi. Cebeovo aja wugkintob jik wimotiehi kisejdis vufkoh segku ube jofbote maincek sepjuj ab. Wopardi gore bonusomo pebir hahe ihiini azup kuwvavuw kevicehi rivgu refdoh dajda eveik asi wo puf ohuimejec gew."
+  },
+  "apiKey": "fe5785bd11b7856dd00af3f30c242f75675e99e06e0aa4525cdd7064e9f5e263",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
