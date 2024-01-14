@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Hunt",
+  "age": 61,
+  "address": {
+    "street": "Vagroc Point",
+    "city": "Copzouge",
+    "state": "VT",
+    "zip": "23278"
+  },
+  "contact": {
+    "phone": "(604) 554-5002",
+    "servicePhone": "800852126"
+  },
+  "birthday": "1982-11-17T01:13:07.158Z",
+  "ip": "30.243.244.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Wucojme kozuwa mopid caira zoh fav wohfijne baahi rew de tembuhjo lej zuheji lanmevnor iwreg. Odbumuhi uvzet ada dirlam neco tibid op oliwve gub kezisve galwioti vinog fulin nive zuhbap ge te. Evwow vud jugfig roepe vange geb egne zevbu kodad foviir ede fohbegut ude.",
+    "bio": "Isu goroduf jisav jabi gakbimgor jilul hufizo seb upintuz me ejujaoka domtehka ge. Se paen ruz ida zisa taba silcikso jiwtu ha jalagpa tet hu lazhuwfu safgof ficabot nozavi uzeize. Zuzeuf gojevu ve gem kojge zo ocevu jaheit litzup guz dohoimo davnaip. Gu fiiz he zikawa ge mopugtuf boeba da tu co poce wu gidohsu ecgabke rot jab azi. Kongaija iwage wi wo uz fijsam zo matuh go tu ojuwen ita pi eglugco egeuce duh jekmac. Ba la sasafe pakzeflob cesowenon ahukipgom hu jibfian zowukla gi za ileidi. Barbu kutjoham vifhapoj sewdes veemvev uri hij kafvel ruudi supa zoajta nofe uftal neemce."
+  },
+  "apiKey": "da88c92b66b5d30762813841f5e330b4f4fb9e6d766f7234eb044635ed87497d",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
