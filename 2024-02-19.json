@@ -1,0 +1,26 @@
+{
+  "name": "Dominic Mann",
+  "age": 61,
+  "address": {
+    "street": "Weegi Place",
+    "city": "Wafkeiju",
+    "state": "MO",
+    "zip": "36511"
+  },
+  "contact": {
+    "phone": "(311) 378-2819",
+    "servicePhone": "800218551"
+  },
+  "birthday": "1986-12-23T09:46:46.702Z",
+  "ip": "238.155.251.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Egene seamwi azo ujiruja winhiv jirotetod punuibe wivu kemsas pomseoco teczop mih ja ekzokaz foc. Igiitujej rohaha go muhaco atdacfe jaddel gowiziba pepvujsu lehgaw bahzerrib pouji zabiw mokozici tizpaal. Vucfilet puvbusfu furib waogo ta aza pojova fanagi apigofa ov na atsom hof go hupudirap.",
+    "bio": "He si un isi juz wajrad digrauv diiv iti wu uhu viz nehroku sidkin soh borem paw suab. Ojapibok torit ajdo fol tekhemo gowvader cardud cili ke ge cu ohoakugew. Engajta ton aponu tosimeec cag porne wiuz vo siwec titpeg emad hanfeki. Giplilma habjis udwelce jotfacce vagife opokeki ho kefannoc parpenoz nanvo pogok bofzuzhe diecafu."
+  },
+  "apiKey": "eff78c531f3e38d91e0d0ccb688b7b62e4de254af30fee981ff9e4a8d31e5929",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
