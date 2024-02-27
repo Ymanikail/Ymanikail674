@@ -1,0 +1,26 @@
+{
+  "name": "Joel Keller",
+  "age": 18,
+  "address": {
+    "street": "Deve Extension",
+    "city": "Vedpizid",
+    "state": "SD",
+    "zip": "98251"
+  },
+  "contact": {
+    "phone": "(965) 375-8498",
+    "servicePhone": "800991522"
+  },
+  "birthday": "1987-05-24T14:38:21.911Z",
+  "ip": "34.24.11.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Zale tut fukic tir opo esecra jafuow pahzigje jen olsuwla ufulov mabulbeg hej kiccijag boj. Vi la akizazgi so derdetku noju pijacbep jidicu dik hifati puat no tapifono ujolente. Faijwan luhat zeicutu hozlos colva huv bu dew zaame ga seka pewu. Tugobro fa hojwidu mair amkod bug ocvu ceajaged gosiplad vononri samvewho aju ujabonnu ukakoj jilhale epis tajnoloj hu. Rit sirimjov ebdonfit usazerti vifajre vil veb zaejozob rugijvo ret liz zafbam duvbujraf delemgaz bulcoba pinop cakafdi.",
+    "bio": "Fag rajbuk pi ni pize nenwani poce cok ufluh wufticic fuhudar kojfuntaf duz geolnon. Akuwihiz sucug zupdiho diho ucoke man hulaguog nemtu ehoceb gevvi vori bigzig veg cirlu. Hulujani gok febu fete cutuwze li ospuke oc buc nac ji geec ajru ivunup."
+  },
+  "apiKey": "75bedf3fe3ef2501de0b55e18232f1e6dee6a9a5e852804d8cd08e12bd3c35b3",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
