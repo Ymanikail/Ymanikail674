@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Reyes",
+  "age": 20,
+  "address": {
+    "street": "Etdu Glen",
+    "city": "Buhupeg",
+    "state": "TN",
+    "zip": "68305"
+  },
+  "contact": {
+    "phone": "(343) 453-5969",
+    "servicePhone": "800172999"
+  },
+  "birthday": "1968-05-27T15:58:30.290Z",
+  "ip": "52.199.239.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Tameh rokak su rohnu me lu ve jamob elurespo ro suju icijimi otoilep tilas abali gum voh guhrizmup. Obba cous mocseno vijkogi emega ba oj dasobi atjovpek perko wetomud guvubsag wuh izzuzu. Ozojed dader gezva zados vakakuf vozev luduvdi hive oh elulimi oromju uduurozo dako ecnukug fupe zadi vehnacpa.",
+    "bio": "Ru tuapa vawbug vifsava esetoviz figez fu kuduci dog into gukvo va rofawfuh nejtota agfug ruoh gudagij. Harrebo zawi fa vofa icuiwca jek vuf pog uvka jotud maf zinudiloc. Kur udewawe bo ziuse wahe wakvu sifarmed vonru jom busedca nisi balu wobsa deguwrul. Howuji habbof zopgo tu pinsezo wi zih howbu wo dato nifav jem."
+  },
+  "apiKey": "6788b228e85396703f3c786da0b1ed516225f9e6197cc91c7c571c58bf75d480",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
