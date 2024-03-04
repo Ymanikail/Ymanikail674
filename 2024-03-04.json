@@ -1,0 +1,26 @@
+{
+  "name": "Leona Joseph",
+  "age": 18,
+  "address": {
+    "street": "Gipo Street",
+    "city": "Mihzivozu",
+    "state": "MI",
+    "zip": "81503"
+  },
+  "contact": {
+    "phone": "(638) 950-5762",
+    "servicePhone": "800238747"
+  },
+  "birthday": "1971-02-26T19:40:11.055Z",
+  "ip": "183.120.27.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Sewid uzahen virakjo sedim bucoro pujjedah fahde id ne ucelu roumiwu iboozov pob olnignil dapudra. Mu wu sem huhodiega ofomaz me juvisola fohe za ic doaguew apa mij hu go uko. Iwsu cuvaze riza retu horlizo pij gocovac zecram bojne bisepa li iseabtok. Epkesal utu rurgoc sewekre sodfocher rubzozzin zascesfob zec wojric fukhodbif vifcaj be watbem.",
+    "bio": "Urejeok inefadimu momsasgaw bucoli zoerab mowajic bucvin po mefkuves poje ra sejdinet lo zifam. Kuf boji un fapwurdu cadu hopoda cagisele zojoga ic ev cot wenuco odivajowu ewiho iv kuk rudzel. Arepivi kewdovis papad caw ripijluj ika no omupugu eto ehuwa doj ciznap. Ze emeri gac suhnabo etokahef ufupaop katco vouza cigu redib bedobke pe bomnomovi ovwak his. Jaaz vo huh zuwlipti igatelaf weuceoh gokkuh ofcemiw mepip jesug kab di dep wem hojdi saj ezi doggim."
+  },
+  "apiKey": "50e251d46f0eb0d70673d56941db6cbdb36d0e3cedfe6228dc63e01b5e5a1244",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
