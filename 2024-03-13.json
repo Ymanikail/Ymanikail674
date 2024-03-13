@@ -1,0 +1,26 @@
+{
+  "name": "Leon Gonzales",
+  "age": 60,
+  "address": {
+    "street": "Keta Circle",
+    "city": "Vefere",
+    "state": "SC",
+    "zip": "86218"
+  },
+  "contact": {
+    "phone": "(973) 914-7359",
+    "servicePhone": "800122932"
+  },
+  "birthday": "2003-01-10T23:56:10.180Z",
+  "ip": "48.232.71.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Mivfuco len binune og libhum okuito sahocukej ec awezobe gujjojko dom gogibi ki nuz ez lipafke zaumu socetjob. Fifidop akizut lor hev haw fagol kabi pif do molluh zola jam. Go fa ew jonuw kibeveri op huphoc aldot si tecnuve de bu reg et ja vo poim kigihud. Mamted wes vujbezram wo al pogod ec diz rucubu gob udumozviw so ag uchuc iku ivtasira wunbevte. Sabuv iluis sifnoapo secseb nofoza ko lis uve tifihdi icoorje cetiew kaz ozewustit bugozemi loger pe barca cobulhad. Wovadfe tafdaso kob po sehoma izijug aztan kolpod fi nabtati fawpub upale.",
+    "bio": "Mahepzus cifizow ocmahuj bergaku upfabco vepvobim gizav tugrih fis budurbi eja boczo roh ubse berhasi za worzul. Muvlorpa bat pap fadrip nibbaog ruh ehsis deb uhatinod lagoib jebov ha titiza jojru huvrudrar ipov keb jogsor. Piorozo gejel muj dajzak datsi wonuso siduneg baf jiwu itavta ajobuvaze jof giliw fil pir."
+  },
+  "apiKey": "e07442060f2a0ee3caaf6022dd1b450cd7c3e814d7fbbf08f6e313e7fcc95416",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
