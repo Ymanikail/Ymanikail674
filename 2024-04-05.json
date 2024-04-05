@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Cook",
+  "age": 52,
+  "address": {
+    "street": "Bongic Manor",
+    "city": "Halodva",
+    "state": "WI",
+    "zip": "37278"
+  },
+  "contact": {
+    "phone": "(729) 240-4387",
+    "servicePhone": "800953125"
+  },
+  "birthday": "1976-09-10T23:25:44.515Z",
+  "ip": "198.111.103.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Gumit becep sil rozfew taajvo pujfutri uhe egvur suhic zef va omaduhah il. Cuhavne zu ki adbufuk fus eculitsom zuregi gipedurev ba viev fuzwaov dimfaaru lahpab sug nafofom awhani pabsu. Hode va him suipdem teomsuj noh ivasop wim vesac ciga hiolufu edsez vonuji so kig jibcile coga ecahow.",
+    "bio": "Jizwijza ib pij rutdedag uf ralohko jizetnej melitok zeh dudot cimpi finlumco. So beog fe davnervi badoh wehseta re cagi hunfi ulelim vugkovez bigehej dugset rutog fij watej ope vono. Dakram loni isa zo awucutob co juw mozamzen upjor kivuc gibot tec. Cem idelale podovaz ve huvuvbev ewovitfa cozak enomokgu evaseis lo go po opoevo huzje fiv zu puruzop baigied."
+  },
+  "apiKey": "fd1c3b8d5ed47fe1834b93bc2f89de829a9975958a7f019f56cb68aa6f2cd3a5",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
