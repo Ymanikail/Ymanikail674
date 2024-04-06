@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Moran",
+  "age": 56,
+  "address": {
+    "street": "Caab Mill",
+    "city": "Neeldo",
+    "state": "ID",
+    "zip": "40037"
+  },
+  "contact": {
+    "phone": "(722) 878-7098",
+    "servicePhone": "800688536"
+  },
+  "birthday": "1972-01-14T19:28:08.665Z",
+  "ip": "182.100.45.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu ho hujegi bigkeog eztamo kielaive otcevsak afaeb pelcetna efu mer jama ba. Worsi nus tabom ihilgo rutal vuiw keti jevsak dero takuga lerzot is jic wus ni fopka. Kehgusfun nevakva nokmi uci wepu nouniusi ucodsem lugfepun bocfa medohfu upipuv orojoc senfoeti. Bonogic umuwidfil la gi nosruve edcem heg tetwauhe haroav ejgicale piti hetjup. Evurilfo diuloko cosem jatib wukloci ekzomik rogso ferosi kavij rasevot ramguz duv legib sirun cibwa vuidopo vum. Ube kobasi uwjowi zu jib je esfov gusbago iz laflu fu ori pe ru ca simginim bumwe.",
+    "bio": "Ib amutemuk kufbuwa kerid ze lojse hino heb bis nonjumce utevam kela tot utke gomos cufhamho osazanum osra. Udulecej vu piah zugtoz nujcu sisusoiba uze po camegab kivbo toho enusogko esika. Kidetdo kek vees bi bohiluheh pup zuh poucarim muic ad ihece vohlawip jowona imabasema vatge jafuc tuw esre."
+  },
+  "apiKey": "3a5c5f2bf116d02b5a903098185806fc742e53b662d11d2c4673182b94862bab",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
